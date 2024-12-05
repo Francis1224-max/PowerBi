@@ -1,0 +1,2 @@
+# PowerBi
+datos del curso
